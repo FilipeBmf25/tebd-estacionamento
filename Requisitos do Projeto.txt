@@ -3,7 +3,8 @@
 - Realizar Pagamento do Custo por Tempo de Permanência
 
 (Mensalistas)
-- Informar Dados para Cadastro
+- Informar Dados Pessoais para Cadastro
+- Informar Dados Do(s) Veículo(s) para Cadastro
 - Informar Lista de Usuários para a(s) vaga(s)
 - Confirmar Pagamento da Mensalidade
 - Renovar Contrato Mensal
