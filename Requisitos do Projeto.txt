@@ -1,25 +1,25 @@
 (Horistas)
 - Verificar disponibilidade de Vagas
-- Realizar Pagamento do Custo por Tempo de Permanência
+- Realizar Pagamento do Custo por Tempo de PermanÃªncia
 
 (Mensalistas)
 - Informar Dados para Cadastro
-- Informar Lista de Usuários para a vaga
+- Informar Lista de UsuÃ¡rios para a(s) vaga(s)
 - Confirmar Pagamento da Mensalidade
 - Renovar Contrato Mensal
 
 (Horistas e Mensalistas)
-- Verificar tabela de preços
+- Verificar tabela de preÃ§os
 - Alugar uma vaga
 - Realizar Pagamento
 
 (Sistema)
 - Informar Quantidade de Vagas para Horistas
-- Informar quais Vagas estão Disponíveis para os Clientes
-- Calcular Custo por Tempo de Permanência de Clientes Horistas
+- Informar quais Vagas estÃ£o DisponÃ­veis para os Clientes
+- Calcular Custo por Tempo de PermanÃªncia de Clientes Horistas
 - Confirmar Pagamento de Clientes Horistas
-- Liberar Saída do Estacionamento para Horista
+- Liberar SaÃ­da do Estacionamento para Horista
 - Cadastrar Mensalista
 - Consultar Mensalista
-- Consultar Confirmação de Pagamento de Mensalidade
+- Consultar ConfirmaÃ§Ã£o de Pagamento de Mensalidade
 - Liberar Entrada do Estacionamento para Mensalista
