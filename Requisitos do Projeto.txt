@@ -3,9 +3,13 @@
 - Realizar Pagamento do Custo por Tempo de Permanência
 
 (Mensalistas)
+<<<<<<< HEAD
+- Informar Dados para Cadastro
+=======
 - Informar Dados Pessoais para Cadastro
 - Informar Dados Do(s) Veículo(s) para Cadastro
 - Informar Lista de Usuários para a(s) vaga(s)
+>>>>>>> f0914fe1ce61a57f22d6b4fffff759c4d33b8c77
 - Confirmar Pagamento da Mensalidade
 - Renovar Contrato Mensal
 
@@ -22,5 +26,11 @@
 - Liberar Saída do Estacionamento para Horista
 - Cadastrar Mensalista
 - Consultar Mensalista
+<<<<<<< HEAD
+- Consultar Confirma��o de Pagamento de Mensalidade
+- Liberar Tokens de Entrada para mensalistas
+- Liberar Entrada do Estacionamento para Mensalista
+=======
 - Consultar Confirmação de Pagamento de Mensalidade
 - Liberar Entrada do Estacionamento para Mensalista
+>>>>>>> f0914fe1ce61a57f22d6b4fffff759c4d33b8c77
